@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sammyfung
-- 👀 I’m interested in Open Source and Python.
-- 🌱 I’m currently learning emerging technology.
-- 💞️ I’m looking to collaborate on my open source projects.
+- 👀 I’m a long time contributor in open source & open data.
+- 💞️ I’m looking for [sponsors](https://github.com/sponsors/sammyfung) to support my works.
 - 📫 You can reach me at @sammyfung.
 
 <!---
