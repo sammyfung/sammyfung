@@ -1,4 +1,4 @@
-## Open Source Advocate, Python Developer, Data Engineer
+## Open Source Advocate, Python Developer, AI Engineer
 
 I am an open source advocate and a PSF Fellow. I have been coding in Python since 2005. I am volunteering at [Open Platform Society](https://opsoc.org) to promote open data and open AI.
 
