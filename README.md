@@ -1,6 +1,6 @@
-## Python Developer, Data Engineer, Open Advocate
+## Open Source Advocate, Python Developer, Data Engineer
 
-I am a PSF Fellow, and I have been coding in Python since 2005. I am volunteering at [Open Platform Society](https://opsoc.org) to promote open data and open AI.
+I am an open source advocate and a PSF Fellow. I have been coding in Python since 2005. I am volunteering at [Open Platform Society](https://opsoc.org) to promote open data and open AI.
 
 I am the founder and president of [Open Source Hong Kong](https://opensource.hk). I am the founder and the conference ex-chair of [PyCon Hong Kong](https://pycon.hk) and [Hong Kong Open Source Conference](https://hkoscon.org).
 
