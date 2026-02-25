@@ -1,12 +1,21 @@
-## Open Source Advocate, Python Developer
+## Empowering business & people with open technologies
 
-I am an open source, open data, open source AI advocate. I am a PSF Fellow and founder of [Open Source Hong Kong](https://opensource.hk), [Open Platform Society](https://opsoc.org), [PyCon Hong Kong](https://pycon.hk), and [Hong Kong Open Source Conference](https://hkoscon.org).
+I am Open Technology Advocate & Consultant, and a Python Software Foundation Fellow.
 
-## Active Open Source Projects
+## Open Source Skills & Projects
 
-1. Django applications: [badgeprint](https://github.com/sammyfung/badgeprint), [InvoicePi](https://github.com/sammyfung/invoicepi)
-2. Information: Transportation Timetables ([MTR](https://github.com/sammyfung/mtrtrain), [Ma Wan](https://github.com/sammyfung/transport_mawan))
-3. Web Crawling: [hk0weather](https://github.com/sammyfung/hk0weather), [weatherdatascraper](https://github.com/sammyfung/weatherdatascraper)
+1. Application & Backend development with Python: developed event application [badgeprint](https://github.com/sammyfung/badgeprint), business application [InvoicePi](https://github.com/sammyfung/invoicepi) with Django framework.
+2. AI development & Web Crawling with Python: develops [hk0weather](https://github.com/sammyfung/hk0weather), [weatherdatascraper](https://github.com/sammyfung/weatherdatascraper) projects with Scrapy.
+3. Open data advocate: [MTR](https://github.com/sammyfung/mtrtrain), [Ma Wan](https://github.com/sammyfung/transport_mawan) transportation timetables.
+
+## Establish Communities, Conferences & Organisations
+
+I am the founder of open technology communities & conferences.
+
+* [Hong Kong Open Source Conference](https://hkoscon.org)
+* [Open Platform Society](https://opsoc.org)
+* [Open Source Hong Kong](https://opensource.hk)
+* [PyCon Hong Kong](https://pycon.hk)
 
 ## Support my works
 
