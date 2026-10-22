@@ -1,24 +1,7 @@
-## Empowering business & people with open technologies
+## Software & Digital Freedom Advocate
 
-I am Open Technology Advocate & Consultant, and a Python Software Foundation Fellow.
+From a student leading local Linux user group @hklug as founding chairman in 1997, I keep contributions in open source community and other digital freedoms like open data. Organised 30 open source conferences & open data hackathons in Asia cities, connection with people, communities and organisations. Elected as @gnome foundation board member in 2022-2024.
 
-## Open Source Skills & Projects
+## Pythonist 
 
-1. Application & Backend development with Python: developed event application [badgeprint](https://github.com/sammyfung/badgeprint), business application [InvoicePi](https://github.com/sammyfung/invoicepi) with Django framework.
-2. AI development & Web Crawling with Python: develops [hk0weather](https://github.com/sammyfung/hk0weather), [weatherdatascraper](https://github.com/sammyfung/weatherdatascraper) projects with Scrapy.
-3. Open data advocate: [MTR](https://github.com/sammyfung/mtrtrain), [Ma Wan](https://github.com/sammyfung/transport_mawan) transportation timetables.
-
-## Establish Communities, Conferences & Organisations
-
-I am the founder of open technology communities & conferences.
-
-* [Hong Kong Open Source Conference](https://hkoscon.org)
-* [Open Platform Society](https://opsoc.org)
-* [Open Source Hong Kong](https://opensource.hk)
-* [PyCon Hong Kong](https://pycon.hk)
-
-## Support my works
-
-[GitHub Sponsors](https://github.com/sponsors/sammyfung) | [Buy me a coffee](https://buymeacoffee.com/sammyfung) | [Patreon](https://www.patreon.com/sammyfung)
-
-
+Switching from PHP to Python coder in 2005, 20+ year python experience, early member at local python user group @pythonhk. Established @pyconhk in 2015 after established @hkoscon & visited PyCon APAC by @pyconjp in 2013. Elected as @psf Fellow in 2022.
